@@ -64,3 +64,51 @@ Key functionality:
                 Teacher
                /       \
           Lecturer     Tutor
+
+Testing
+
+The project includes testing for all three classes.
+
+Testing covers:
+
+Creating and inspecting Teacher objects
+Updating teacher working hours
+Creating Lecturer objects and grading assignments
+Creating Tutor objects and updating salary based on performance
+Verifying expected and actual program results
+Identifying and correcting syntax, semantic, and logical errors
+Technologies Used
+Java
+BlueJ
+Object-Oriented Programming (OOP)
+Draw.io for class diagrams
+Repository Structure
+Java-OOP-Project/
+├── Teacher.java
+├── Lecturer.java
+├── Tutor.java
+├── Documentation.pdf
+└── README.md
+Documentation
+
+Detailed project documentation is available in Documentation.pdf.
+
+The documentation includes:
+
+Class diagrams
+Inheritance diagram
+Pseudocode
+Method descriptions
+Testing and results
+Error detection and correction
+Complete source code
+Key Learning Outcomes
+
+This project demonstrates the practical application of Java OOP principles through the design and implementation of an inheritance-based class structure for educational staff management.
+
+It provides hands-on experience with class relationships, object creation, encapsulation, inheritance, method overriding, conditional logic, testing, and debugging.
+
+
+Your documentation explicitly supports the inheritance/encapsulation/method-overriding claims and the three-class structure. :contentReference[oaicite:1]{index=1}
+
+**One correction before you paste:** your screenshot shows the repository files as `Lecturer.java`, `Teacher.java`, and `Tutor.java`, so the repository structure above matches what's actually on GitHub. This README will make that pinned card much more credible when someone opens it.
